@@ -1,4 +1,6 @@
-# HW1 - React Native - Connect 4
+# Connect 4
+
+Connect 4 is written in **React Native** for both **Android** and **iOS**.
 
 Connect four is a two-player connection board game, in which the players take turns dropping colored discs into a seven-column, six-row vertically suspended grid.
 
